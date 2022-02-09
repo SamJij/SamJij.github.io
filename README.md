@@ -1,39 +1,37 @@
-# logs
+### 我的博客
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
+地址：[http://liuyanwei.jumppo.com](http://liuyanwei.jumppo.com)
 
 
-#### 安装教程
+### 安装说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. fork库到自己的github
+2. 修改名字为：`username.github.io`
+3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
+4. 修改CNAME，或者删掉这个文件，使用默认域名
+5. 修改`_config.yml`配置项
+6. 修改或删除footer最后的百度站点统计
+7. It's done!
 
-#### 使用说明
+**注意:**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+fork程序后如果要保留我的文章，请注明出处。
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+github博客系统使用的是jekyll搭建的，关于博客详细搭建，可以参考我的文章：[在github上搭建jekyll博客](http://liuyanwei.jumppo.com/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
 
 
-#### 特技
+### 更新内容
+-   [ x ]  增加文章搜索功能
+-   [ x ]  增加SEO优化和站点地图功能
+-   [ x ]  修改网站最低支持的ie版本，从最低ie9改到最低ie8
+-   [ x ]  添加github连接图标
+-   [   ]  增加分享功能
+-   [   ]  修改网站配色
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 其他支持
+
+-jumppo图床网站，基于html5和php
+jekyll博客发布图片时只能外链，所以为了配合这个博客，整了一个简单的图床程序，地址：[https://github.com/coolnameismy/ImagesUploadWebSite](https://github.com/coolnameismy/ImagesUploadWebSite)
+
+
+
